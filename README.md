@@ -11,11 +11,11 @@ The data being sent to the terminal emulator is formatted adding timestamps and 
 The device is controlled by a set of serial commands via VCP.
 
 ## What will I need :
-	a microcontroller, SAMD21J18A is a candidate as I have already the dev board in my pile;
-	RS232 level shifters, probably MAX232;
-	SPI Flash memory, one of the winbond line as I am already familiar with them;
-  An LDO to convert the 5 volt from the USB into a 3.3V (the development board use the SPX3819R2-L/TR;
-	Some sort of activity indicator, Leds for TX and RX and an LCD with the last data activity;
-  And jelly bean componenst (resistor, capacitor).
+- a microcontroller, SAMD21J18A is a candidate as I have already the dev board in my pile;
+- RS232 level shifters, probably MAX232;
+- SPI Flash memory, one of the winbond line as I am already familiar with them;
+- An LDO to convert the 5 volt from the USB into a 3.3V (the development board use the SPX3819R2-L/TR;
+- Some sort of activity indicator, Leds for TX and RX and an LCD with the last data activity;
+- And jelly bean componenst (resistor, capacitor).
 ## Block diagram 
-	![Uart bridge](https://user-images.githubusercontent.com/61431239/141692235-d6d9d671-0acf-49d5-98bb-6b82a8d552f0.png)
+	![Uart bridge](https://github.com/DavideTallone/SerialBridge/blob/main/Uart%20bridge.png)
