@@ -1,7 +1,7 @@
 # What is this?
 It is an embedded serial bridge with monitor functionality
 
-## What Is the problem?
+## What is the problem?
 In the age of USB, ethernet and wireless gizmos, the trusty RS232 is still a common way to interface PC to instrumentation in production environments.\
 During the development of production test software, progress can be hindered by poorly written protocols, lackluster documentation and connection issues.
 ## My idea:
