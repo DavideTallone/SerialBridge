@@ -21,3 +21,6 @@ It is equipped with onboard ROM memory as in a pinch it can be used as a standal
 - Various jelly bean components (resistor, capacitor).
 ## Block diagram 
 ![Block diagram](Images/Uart%20bridge.png)
+
+## Flow chart
+![Flow chart](Images/FlowChart.jpg)
