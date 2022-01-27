@@ -17,7 +17,8 @@ int main(void)
     /* Replace with your application code */
     while (1) 
     {
-		UART3_Writechar('d');
+
+		UART3_Writechar(UART3_Readchar());
 		delayms(10);
     }
 }

@@ -10,4 +10,5 @@
 
 void UART3_Init(void);
 void UART3_Writechar(char data);
+char UART3_Readchar (void);
 #endif //__UART_H__
